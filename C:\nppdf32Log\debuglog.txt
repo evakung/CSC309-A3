@@ -1,0 +1,9 @@
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+<<<<<<< HEAD
+NPP_GetValue is called
+NPP_GetValue is called
+NPP_GetValue is called
+=======
+>>>>>>> 370b9b277e92d0ca11bcb28dfde733384903ec53
